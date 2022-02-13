@@ -1,0 +1,14 @@
+D:\4Delphi\AddonLaz\KafkaGate\win7-x64\native\KafkaGate64.exe 
+Heap dump by heaptrc unit of D:\4Delphi\AddonLaz\KafkaGate\win7-x64\native\KafkaGate64.exe
+76 memory blocks allocated : 3474/3672
+76 memory blocks freed     : 3474/3672
+0 unfreed memory blocks : 0
+True heap size : 163840 (192 used in System startup)
+True free heap : 163648
+D:\4Delphi\AddonLaz\KafkaGate\win7-x64\native\KafkaGate64.exe 
+Heap dump by heaptrc unit of D:\4Delphi\AddonLaz\KafkaGate\win7-x64\native\KafkaGate64.exe
+75 memory blocks allocated : 3446/3640
+75 memory blocks freed     : 3446/3640
+0 unfreed memory blocks : 0
+True heap size : 163840 (192 used in System startup)
+True free heap : 163648

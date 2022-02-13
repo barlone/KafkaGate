@@ -12,3 +12,10 @@ Heap dump by heaptrc unit
 0 unfreed memory blocks : 0
 True heap size : 196608 (112 used in System startup)
 True free heap : 196496
+D:\4Delphi\AddonLaz\KafkaGate\KafkaGate.exe 
+Heap dump by heaptrc unit of D:\4Delphi\AddonLaz\KafkaGate\KafkaGate.exe
+75 memory blocks allocated : 2361/2536
+75 memory blocks freed     : 2361/2536
+0 unfreed memory blocks : 0
+True heap size : 163840 (96 used in System startup)
+True free heap : 163744
